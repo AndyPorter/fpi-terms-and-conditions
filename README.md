@@ -3,9 +3,7 @@
 repo contains markdown version of the terms and conditions for gov.uk service Find property information
 
 Last Updated:
-
-* Mon 20 Feb, 2017 to match Google drive doc V2 20-02-17
-
+* Mon 20 Feb, 2017 to match Google drive doc V2 20-02-17 
 
 Notes:
 * this is currently duplicated inside the prototype.
